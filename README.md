@@ -1,4 +1,4 @@
-### Hi 👋, I'm Bekir
+# Hi 👋, I'm Bekir
 
 🎓 I graduated with Bachelor's degree in Electrical and Electronics Engineering from Sakarya University and Master's degree in Electronic Engineering and Artificial Intelligence from Gebze Technical University and RWTH Aachen University.
 👩‍🎓 I'm currently doing PhD in Electronics and Communication Engineering (Sensors and Artificial Intelligence) at Yıldız Technical University (Istanbul, TURKEY).
@@ -11,7 +11,7 @@
 
 ### 🔗 Let's Connect!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekirce)](https://github.com/anuraghazra/github-readme-stats)
+[![bekirce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekirce)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
