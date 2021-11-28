@@ -1,4 +1,6 @@
-# Hi 👋, I'm Bekir
+## Hi 👋, I'm Bekir.
+
+## I'm an Engineer, Explorer and Enthusiast!
 
 - 🎓 I graduated with Bachelor's degree in Electrical and Electronics Engineering from Sakarya University and Master's degree in Electronic Engineering and Artificial Intelligence from Gebze Technical University and RWTH Aachen University.
 - 👩‍🎓 I'm currently doing PhD in Electronics and Communication Engineering (Sensors and Artificial Intelligence) at Yıldız Technical University (Istanbul, TURKEY).
@@ -7,9 +9,11 @@
 - 👨‍💻 All of my projects are available at https://elektronikdunyasininsirlari.wordpress.com/
 - 📫 How to reach me: ebubekirceylan212@gmail.com
 
-### 🔗 Let's Connect!
+### 🔗 Coonect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ebubekir-ceylan-74ab4b87/)  
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
+[<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][twitter]
 
 
-[![bekirce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bekirce)](https://github.com/bekirce/github-readme-stats)
+[linkedin] : https://www.linkedin.com/in/ebubekir-ceylan-74ab4b87/
+[twitter] : https://twitter.com/1bekirce
