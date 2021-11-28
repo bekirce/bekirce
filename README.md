@@ -13,6 +13,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=bekirce&color=red" alt="bekirce :: Profile Stats"></a>
-<a href="https://www.linkedin.com/in/ebubekir-ceylan-74ab4b87/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ebubekirceylan-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/1bekirce"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ebubekirceylan-green?style=flat-square&logo=twitter"></a>
+<a href="https://www.linkedin.com/in/ebubekir-ceylan-74ab4b87/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ebubekirceylan-green?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/1bekirce"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ebubekirceylan-yellow?style=flat-square&logo=twitter"></a>
+<a href="mailto:ebubekirceylan212@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ebubekirceylan212@gmail.com-blue?style=flat&logo=gmail"></a>
 
