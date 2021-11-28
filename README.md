@@ -1,4 +1,4 @@
-## Hi 👋, I'm Bekir.
+## Hi 👋, I'm Ebubekir.
 
 ## I'm an Engineer, Explorer and Enthusiast!
 
@@ -9,11 +9,10 @@
 - 👨‍💻 All of my projects are available at https://elektronikdunyasininsirlari.wordpress.com/
 - 📫 How to reach me: ebubekirceylan212@gmail.com
 
-### 🔗 Coonect with me:
+<h3 align="center">Connect with me:</h3>
 
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
-[<img height="22" width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][twitter]
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bekirce&color=red" alt="bekirce :: Profile Stats"></a>
+<a href="https://www.linkedin.com/in/ebubekir-ceylan-74ab4b87/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@ebubekirceylan-blue?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/1bekirce"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ebubekirceylan-green?style=flat-square&logo=twitter"></a>
 
-
-[linkedin] : https://www.linkedin.com/in/ebubekir-ceylan-74ab4b87/
-[twitter] : https://twitter.com/1bekirce
