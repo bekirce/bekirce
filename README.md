@@ -5,7 +5,7 @@
 - 🎓 I graduated with Bachelor's degree in Electrical and Electronics Engineering from Sakarya University and Master's degree in Electronic Engineering and Artificial Intelligence from Gebze Technical University and RWTH Aachen University.
 - 👩‍🎓 I'm currently PhD Candidate and studying on PhD thesis about Artificial Intelligence (Electronics and Communication Engineering) at Yıldız Technical University (Istanbul, TURKEY).
 - 🧠 I'm currently working as Senior Embedded Software Engineer based on security and cryptographic tehnologies by developing softwares at TUBITAK which is biggest research company in TURKEY.
-- 🌱 I'm currently learning various Agriculture Sensor Technologies, Data Sciences, State of Art Algorithms based on Artificial Intelligence.
+- 🌱 I'm currently learning various Cryptography, Sensor Technologies, State of Art Algorithms based on Artificial Intelligence for specific problems.
 - ✨ I have lately worked on white goods tehnologies by developing real time operation systems softwares for different MCUs at Arçelik Global which is one of the biggest company in Turkey. At the same time, worked on IOT products by developing wireless communication technologies such WIFI, GSM, RF, Ethernet, OTA and also various sensors for animal healthy. 
 - 👨‍💻 All of my educational projects are available at https://elektronikdunyasininsirlari.wordpress.com/
 
