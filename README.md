@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Bekir.
 
-## I'm an Engineer, Explorer and Enthusiast!
+## I'm an Engineer, Explorer and Problem Solver!
 
 - 🎓 I graduated with Bachelor's degree in Electrical and Electronics Engineering from Sakarya University and Master's degree in Electronic Engineering and Artificial Intelligence from Gebze Technical University and RWTH Aachen University.
 - 👩‍🎓 I'm currently PhD Candidate and studying on PhD thesis about Artificial Intelligence (Electronics and Communication Engineering) at Yıldız Technical University (Istanbul, TURKEY).
